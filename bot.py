@@ -67,7 +67,7 @@ class Bot(Client):
                     f"Pastikan @{self.username} adalah admin di Channel Tersebut, Chat ID untuk FORCE_SUB{key}: {channel_id}"
                 )
                 self.LOGGER(__name__).info(
-                    "Bot Berhenti. Gabung Channel https://t.me/AlteregoNetwork untuk Bantuan"
+                    "Bot Berhenti. Nonton Youtube untuk Bantuan"
                 )
                 sys.exit()
 
@@ -85,7 +85,7 @@ class Bot(Client):
                 f"Pastikan @{self.username} adalah admin di Channel DataBase anda, CHANNEL_ID Saat Ini: {CHANNEL_ID}"
             )
             self.LOGGER(__name__).info(
-                "Bot Berhenti. Gabung Group https://t.me/AlteregoNetwork untuk Bantuan"
+                "Bot Berhenti. Nonton Youtube untuk Bantuan"
             )
             sys.exit()
 

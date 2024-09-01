@@ -45,5 +45,5 @@ class Data:
 
 
  • Ingin membuat Bot seperti ini chat @blacky0uth
-👨‍💻 Develoved by </b><a href='https://t.me/m0rphxx'>Morphx</a>
+👨‍💻 Develoved by </b><a href='https://t.me/blacky0uth'>sep'</a>
 """

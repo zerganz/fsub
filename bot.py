@@ -43,7 +43,7 @@ class Bot(Client):
         except Exception as a:
             self.LOGGER(__name__).warning(a)
             self.LOGGER(__name__).info(
-                "Bot Berhenti. Gabung Group https://t.me/AlteregoNetwork untuk Bantuan"
+                "Bot Berhenti. Hubungi yang mengerti"
             )
             sys.exit()
 
@@ -91,7 +91,7 @@ class Bot(Client):
 
         self.set_parse_mode(enums.ParseMode.HTML)
         self.LOGGER(__name__).info(
-            f"[🔥 BERHASIL DIAKTIFKAN! 🔥]\n\nBOT Dibuat oleh @{OWNER}\nJika @{OWNER} Membutuhkan Bantuan, Silahkan Tanyakan di chat https://t.me/SayaKyu"
+            f"[🔥 MENYALA ABANGKU! 🔥]\n\nBOT Dibuat oleh @{OWNER}\nJika @{OWNER} Membutuhkan Bantuan, Silahkan Nonton Youtube"
         )
 
     async def stop(self, *args):

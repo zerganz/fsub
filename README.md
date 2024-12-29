@@ -1,6 +1,6 @@
 # Fsub
 
-Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
+Jadi gini ges, Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
 
 <img src="https://kutmut.my.id/logop.png">
 
